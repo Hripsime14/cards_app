@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ImageCard</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="choose_from_gallery">Choose from Gallery</string>
+    <string name="type_url">Type url</string>
+    <string name="save">Save</string>
+</resources>
